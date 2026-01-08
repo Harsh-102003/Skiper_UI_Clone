@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## About project
+I developed a Skiper UI Website Clone using React.<br>
+js and the Skiper UI component library. The main objective of this project <br>
+was to understand component-based architecture in React and learn how to build modern,<br>
+responsive user interfaces using a UI library.
+
 ## Getting Started
 
 First, run the development server:
